@@ -44,5 +44,5 @@ void loop() {
       }
     }
   }
-  delay(700); // Wait again before repeating
+  delay(500); // Wait again before repeating
 }
